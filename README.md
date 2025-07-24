@@ -43,7 +43,7 @@ I love solving real-world problems with modern technologies and building softwar
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiceekiing&layout=compact&theme=tokyonight)](https://github.com/iiceekiing)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iiceekiing&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=iiceekiing&theme=tokyonight" alt="GitHub Streak" />
 
 ---
 
