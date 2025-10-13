@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm iiceekiing (Miracle Amajama)
+# 👋 Hi there, I'm Miracle Amajama (iiceekiing)
 
 🚀 I'm a passionate **Fullstack Software Engineer** and **Blockchain/Web3 Developer** from Nigeria.  
 I love solving real-world problems with modern technologies and building software that makes a difference.
