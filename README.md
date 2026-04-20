@@ -43,16 +43,17 @@ Beyond just writing code, I care about building products that are practical, eas
   </tr>
   <tr>
     <td width="60%">
-      <a href="YOUR_LIVE_LINK_3" target="_blank">
-        <img src="YOUR_PROJECT_SCREENSHOT_URL_3" width="100%" alt="Project 3 Screenshot"/>
+      <a href="https://miracle-amajama-my-portfolio.vercel.app/" target="_blank">
+        <img src="/assets/my-portfolio-website.png" width="100%" alt="Portfolio website"/>
       </a>
     </td>
     <td width="40%" valign="top">
-      <h3>🔗 Project Name Three</h3>
-      <p>Brief description of what this project does and the tech used to build it.</p>
+      <h3>🔗 My Custom Portfolio Website</h3>
+      <p> My professional, fully dynamic full-stack portfolio website built with React, FastAPI, PostgreSQL, and Docker.
+      Featuring: *Split-screen layout, *Profile information and project showcase, *Real-time search and filtering by tech stacks, *Video autoplay for previous project demos.</p>
       <p>
-        🌐 <a href="YOUR_LIVE_LINK_3">Live</a> •
-        💻 <a href="YOUR_GITHUB_LINK_3">GitHub</a>
+        🌐 <a href="https://miracle-amajama-my-portfolio.vercel.app/">Live</a> •
+        💻 <a href="https://github.com/iiceekiing/miracle_amajama">GitHub</a>
       </p>
     </td>
   </tr>
@@ -72,15 +73,11 @@ Beyond just writing code, I care about building products that are practical, eas
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ### 🔹 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Radix UI](https://img.shields.io/badge/-Radix%20UI-161618?style=flat&logo=radixui&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -91,9 +88,7 @@ Beyond just writing code, I care about building products that are practical, eas
 ### 🔹 Web3 & Blockchain
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-F7DF1E?style=flat&logo=ethereum&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-3C3C3D?style=flat&logo=ethers&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
 ![Metamask](https://img.shields.io/badge/-Metamask-F6851B?style=flat&logo=metamask&logoColor=white)
 ![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
 
@@ -102,26 +97,19 @@ Beyond just writing code, I care about building products that are practical, eas
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ### 🔹 DevOps, Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ---
 
