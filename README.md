@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-# 👋 Hi there, I'm Miracle Amajama (iiceekiing)
-=======
+
 # 👋 Hi, I'm Miracle Amajama (iiceekiing)
 Fullstack Software Engineer and Web3 Developer. I've spent the last 4 years learning and building
-web apps, APIs, smart contracts and blockchain tools. 
+web apps, APIs, smart contracts and blockchain tools. I loves building startup products that solve real problems. I build responsive frontends with React and Next.js, and building fast, reliable, and secure backends using Golang, Express, FastAPI, and Django. I also design and manage scalable, containerized applications with Docker.
+
+Beyond just writing code, I care about building products that are practical, easy to use, and ready to grow. I focus on clean architecture, security, performance, and a smooth experience for both users and developers.
+
 
 ---
 
@@ -18,7 +19,7 @@ web apps, APIs, smart contracts and blockchain tools.
     </td>
     <td width="40%" valign="top">
       <h3>🔗 LifeBuilder City Church</h3>
-      <p>A modern, scalable digital church platform built with React and FastAPI, featuring immersive animations, comprehensive management systems, and production-ready deployment.</p>
+      <p>A modern, scalable digital church platform built with React and FastAPI, featuring immersive animations, comprehensive management systems, deep blue atmosphere with twinkling stars, nebula clouds, and glowing orbs.</p>
       <p>
         🌐 <a href="https://the-life-builder-city-church.vercel.app/">Live</a> •
         💻 <a href="https://github.com/iiceekiing/the_life_builder_city_church">GitHub</a>
