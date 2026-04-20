@@ -2,11 +2,8 @@
 # 👋 Hi there, I'm Miracle Amajama (iiceekiing)
 =======
 # 👋 Hi, I'm Miracle Amajama (iiceekiing)
->>>>>>> 7f456bf (update: Modify personal README file to display previous projects images, live demo link, and source code link(github))
-
-Fullstack Engineer and Web3 Developer based in Nigeria. I've spent the last 4 years building everything from
-web apps and APIs to smart contracts and blockchain tools. I care about writing clean code and shipping
-things that actually work and solve real problems. Currently going deeper into Rust and Web3 infrastructure.
+Fullstack Software Engineer and Web3 Developer. I've spent the last 4 years learning and building
+web apps, APIs, smart contracts and blockchain tools. 
 
 ---
 
@@ -20,8 +17,8 @@ things that actually work and solve real problems. Currently going deeper into R
       </a>
     </td>
     <td width="40%" valign="top">
-      <h3>🔗 Project Name One</h3>
-      <p>Brief description of what this project does and the tech used to build it.</p>
+      <h3>🔗 LifeBuilder City Church</h3>
+      <p>A modern, scalable digital church platform built with React and FastAPI, featuring immersive animations, comprehensive management systems, and production-ready deployment.</p>
       <p>
         🌐 <a href="https://the-life-builder-city-church.vercel.app/">Live</a> •
         💻 <a href="https://github.com/iiceekiing/the_life_builder_city_church">GitHub</a>
