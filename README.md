@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Miracle Amajama (iiceekiing)
-Fullstack Software Engineer and Web3 Developer. I've spent the last 4 years learning and building
+I'm a Full-Stack Software Engineer and Web3 Developer. I've spent the last 4 years learning and building
 web apps, APIs, smart contracts and blockchain tools. I loves building startup products that solve real problems. I build responsive frontends with React and Next.js, and building fast, reliable, and secure backends using Golang, Express, FastAPI, and Django. I also design and manage scalable, containerized applications with Docker.
 
-Beyond just writing code, I care about building products that are practical, easy to use, and ready to grow. I focus on clean architecture, security, performance, and a smooth experience for both users and developers.
+Beyond just writing code, I care about building products that are practical, easy to use, scalable, and serve humanity. I focus on clean architecture, security, performance, and a smooth experience for both users and developers.
 
 
 ---
