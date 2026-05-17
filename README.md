@@ -124,7 +124,7 @@ Beyond just writing code, I care about building products that are practical, eas
 
 ## 🌐 Connect with Me
 - 🐦 X (Twitter): [@iiceekiing](https://x.com/iiceekiing)
-- 💼 LinkedIn: [Miracle Amajama](https://www.linkedin.com/in/miracle-amajama?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 LinkedIn: [Miracle Amajama](www.linkedin.com/in/miracle-amajama-iiceekiing)
 
 ---
 
